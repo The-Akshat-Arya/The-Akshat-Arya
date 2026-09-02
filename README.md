@@ -12,7 +12,7 @@
 
 - 🎯 Aspiring **Data Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
 - 🧰 Comfortable across the full workflow — cleaning and modeling data in **Excel / SQL**, exploring it in **Python**, and presenting it in **Power BI**.
-- 📊 Currently sharpening my skills through hands-on projects — check them out below 👇
+- 📊 Currently sharpening my skills through hands-on projects.
 - 💼 Open to **Data Analyst / Business Analyst** internship and entry-level opportunities.
 - 📫 Reach me at: [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
 
@@ -28,39 +28,25 @@
 
 </p>
 
-<br>
-
 ### 🛠️ Tech Stack
 
-#### 📊 Data & BI
+<p align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-#### 🐍 Python & Libraries
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-8CAAE6?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-#### 🔧 Workflow & Tools
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-<br>
-
-### 📌 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| 🛒 [**Online Retail Revenue & Cancellation Analysis**](https://github.com/AkshatArya-glitch/online-retail-revenue-cancellation-analysis) | End-to-end retail analytics project analysing revenue, customer behaviour and cancellation impact. | Python · MySQL · Power BI |
-| ✅ [**AttendIQ**](https://github.com/AkshatArya-glitch/AttendIQ) | Attendance management project focused on tracking and managing attendance records. | Python |
-| 🛍️ [**Customer Shopping Sales Dashboard**](https://github.com/AkshatArya-glitch/customer-shopping-sales-dashboard) | Interactive Power BI dashboard analysing customer sales, categories, shopping malls, payment methods and demographics. | Power BI |
-| 🏫 [**School Management System**](https://github.com/AkshatArya-glitch/school-management-system-mysql) | MySQL case study covering database design, CRUD operations, joins, aggregate functions, subqueries and CASE statements. | MySQL |
+</p>
