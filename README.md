@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Hi%20There%2C%20I%27m%20Akshat&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=560&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+clear+decisions;Currently+building+real-world+analytics+projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+meaningful+insights;Currently+building+real-world+analytics+projects" />
 
 </div>
 
@@ -14,16 +14,18 @@
 - 🧰 Comfortable across the full workflow — cleaning and modeling data in **Excel / SQL**, exploring it in **Python**, and presenting it in **Power BI**.
 - 📊 Currently sharpening my skills through hands-on projects — check them out below 👇
 - 💼 Open to **Data Analyst / Business Analyst** internship and entry-level opportunities.
-- 📫 Reach me at: **akshatarya81@gmail.com**
+- 📫 Reach me at: [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshat-arya-a6644740b">
-    <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:akshatarya81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-akshatarya81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/akshat-arya-a6644740b">
+  <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:akshatarya81@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 <br>
@@ -62,4 +64,3 @@
 | ✅ [**AttendIQ**](https://github.com/AkshatArya-glitch/AttendIQ) | Attendance management project focused on tracking and managing attendance records. | Python |
 | 🛍️ [**Customer Shopping Sales Dashboard**](https://github.com/AkshatArya-glitch/customer-shopping-sales-dashboard) | Interactive Power BI dashboard analysing customer sales, categories, shopping malls, payment methods and demographics. | Power BI |
 | 🏫 [**School Management System**](https://github.com/AkshatArya-glitch/school-management-system-mysql) | MySQL case study covering database design, CRUD operations, joins, aggregate functions, subqueries and CASE statements. | MySQL |
-
