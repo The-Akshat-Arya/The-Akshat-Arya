@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-- 🎯 Aspiring **Data Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
+- 🎯 Aspiring **Data/BI** **Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
 - 🧰 Comfortable across the full workflow — cleaning and modeling data in **Excel / SQL**, exploring it in **Python**, and presenting it in **Power BI**.
 - 📊 Currently sharpening my skills through hands-on projects.
 - 💼 Open to **Data Analyst / Business Analyst** internship and entry-level opportunities.
