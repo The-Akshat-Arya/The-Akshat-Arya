@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Hi%20There%2C%20I%27m%20Akshat&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:0EA5E9&height=200&section=header&text=Hi%20There%2C%20I%27m%20Akshat%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20%2F%20BI%20Analyst&descAlignY=52&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+meaningful+insights;Currently+building+real-world+analytics+projects" />
 
 </div>
 
----
+<br>
 
 ### 👋 About Me
 
-- 🎯 Aspiring **Data/BI** **Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
+- 🎯 Aspiring **Data / BI Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
 - 🧰 Comfortable across the full workflow — cleaning and modeling data in **Excel / SQL**, exploring it in **Python**, and presenting it in **Power BI**.
-- 📊 Currently sharpening my skills through hands-on projects.
+- 📊 Currently sharpening my skills through hands-on, end-to-end analytics projects.
 - 💼 Open to **Data Analyst / BI Analyst** internship and entry-level opportunities.
 - 📫 Reach me at: [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
 
@@ -27,6 +27,8 @@
 </a>
 
 </p>
+
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -50,3 +52,11 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=90&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=The-Akshat-Arya&style=flat&color=808080&label=" height="18"/>
+</div>
