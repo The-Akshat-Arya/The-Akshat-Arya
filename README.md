@@ -58,5 +58,4 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=90&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=The-Akshat-Arya&style=flat&color=808080&label=" height="18"/>
 </div>
