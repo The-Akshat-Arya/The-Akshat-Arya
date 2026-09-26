@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:0EA5E9&height=200&section=header&text=Hi%20There%2C%20I%27m%20Akshat%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20%2F%20BI%20Analyst&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:0EA5E9&height=200&section=header&text=Hi%20There%2C%20I%27m%20Akshat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20%2F%20BI%20Analyst&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+meaningful+insights;Currently+building+real-world+analytics+projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&height=50&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+raw+data+into+meaningful+insights;Currently+building+real-world+analytics+projects" />
 
 </div>
-
-<br>
 
 ### 👋 About Me
 
@@ -27,8 +25,6 @@
 </a>
 
 </p>
-
-<br>
 
 ### 🛠️ Tech Stack
 
