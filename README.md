@@ -6,7 +6,7 @@
 
 </div>
 
-### 👋 About Me
+### About Me
 
 - 🎯 Aspiring **Data / BI Analyst** who enjoys turning messy, real-world data into insights someone can actually act on.
 - 🧰 Comfortable across the full workflow — cleaning and modeling data in **Excel / SQL**, exploring it in **Python**, and presenting it in **Power BI**.
@@ -14,14 +14,13 @@
 - 💼 Open to **Data Analyst / BI Analyst** internship and entry-level opportunities.
 - 📫 Reach me at: [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/akshat-arya-a6644740b">
-  <img src="https://img.shields.io/badge/LinkedIn-Akshat%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:akshatarya81@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -53,5 +52,4 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=90&section=footer" width="100%"/>
-
 </div>
