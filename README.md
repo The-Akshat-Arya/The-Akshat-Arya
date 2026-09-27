@@ -15,14 +15,13 @@
 - 📫 Reach me at: [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/akshat-arya-a6644740b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:akshatarya81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/akshat-arya-a6644740b">
+    <img src="assets/linkedin-icon.png" width="26" align="middle" alt="LinkedIn"/>&nbsp;<b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akshatarya81@gmail.com">
+    <img src="assets/gmail-icon.png" width="26" align="middle" alt="Gmail"/>&nbsp;<b>Gmail</b>
+  </a>
 </p>
 
 ### 🛠️ Tech Stack
@@ -47,6 +46,16 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Akshat-Arya/The-Akshat-Arya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Akshat-Arya/The-Akshat-Arya/output/github-contribution-grid-snake-light.svg" />
+  <img alt="A snake animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/The-Akshat-Arya/The-Akshat-Arya/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
 <br>
 
